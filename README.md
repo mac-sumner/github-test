@@ -1,4 +1,6 @@
 # Mac Sumner
 
 ## Local Git Check
-git version 2.55.0.windows.5
+Git Version
+
+This line was added in RStudio.
